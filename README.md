@@ -1,2 +1,2 @@
-# dezpetty1228.github.io
-This Repository contains my Portfolio website 
+# Portfolio
+Includes my portfolio website and numerous completed projects.
